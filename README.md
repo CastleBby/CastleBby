@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CastleBby
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R and data analysis basics
+- 🌱 I’m currently working in R and Python for data analysis. 
 - 📫 How to reach me: emilycastelanmoreno@gmail.com
 
 <!---
